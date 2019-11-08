@@ -124,3 +124,5 @@ Discusses work that came out of project panama to address the issues with intero
  - [Going off-heap](https://youtu.be/iwSCtxMbBLI?t=92)
  - [The ByteBuffer API](https://youtu.be/iwSCtxMbBLI?t=165)
  - [Memory Access API](https://youtu.be/iwSCtxMbBLI?t=879)
+ - [Safety of the Memory Access API](https://youtu.be/iwSCtxMbBLI?t=2190)
+ - [Performance of the Memory Access API](https://youtu.be/iwSCtxMbBLI?t=2342)
