@@ -4,6 +4,7 @@
  - [Ask the Java architects [50 minutes]](#Ask-the-Java-architects)
  - [Building your own JDK in 10 steps [30 minutes]](#Building-your-own-jdk-in-10-steps)
  - [Java keeps throttling up [2 hours 30 minutes]](#Java-keeps-throttling-up)
+ - [Beyond ByteBuffers [50 minutes]](#Beyond-ByteBuffers)
 
 ## Why we hate Java serialization and what we might do about it
 
@@ -90,6 +91,8 @@ https://www.youtube.com/watch?v=lhkjOrY65Ts
 
 ## Java keeps throttling up
 
+https://www.youtube.com/watch?v=Y-744emVGoo
+
 ### Speakers
 
  - Jose Paumard [@JosePaumard](https://twitter.com/JosePaumard)
@@ -105,3 +108,19 @@ A deep dive into some of the new features coming to java in the near future.
  - [Amber - Haskel's pattern matching](https://youtu.be/Y-744emVGoo?t=2636)
  - [Valhalla - Kotlin's sealed type + data class](https://youtu.be/Y-744emVGoo?t=3734)
  - [Panama - Groovy's smart cast](https://youtu.be/Y-744emVGoo?t=5275)
+ 
+## Beyond ByteBuffers
+
+https://www.youtube.com/watch?v=iwSCtxMbBLI
+
+### Speakers
+
+ - Brian Goetz [@briangoetz](https://twitter.com/BrianGoetz)
+ 
+### Summary
+
+Discusses work that came out of project panama to address the issues with interoperability with the native heap.
+
+ - [Going off-heap](https://youtu.be/iwSCtxMbBLI?t=92)
+ - [The ByteBuffer API](https://youtu.be/iwSCtxMbBLI?t=165)
+ - [Memory Access API](https://youtu.be/iwSCtxMbBLI?t=879)
