@@ -5,6 +5,7 @@
  - [Building your own JDK in 10 steps [30 minutes]](#Building-your-own-jdk-in-10-steps)
  - [Java keeps throttling up [2 hours 30 minutes]](#Java-keeps-throttling-up)
  - [Beyond ByteBuffers [50 minutes]](#Beyond-ByteBuffers)
+ - [The art of clean code [2 hours 40 minutes]](#The-art-of-clean-code)
 
 ## Why we hate Java serialization and what we might do about it
 
@@ -126,3 +127,17 @@ Discusses work that came out of project panama to address the issues with intero
  - [Memory Access API](https://youtu.be/iwSCtxMbBLI?t=879)
  - [Safety of the Memory Access API](https://youtu.be/iwSCtxMbBLI?t=2190)
  - [Performance of the Memory Access API](https://youtu.be/iwSCtxMbBLI?t=2342)
+ 
+## The art of clean code
+
+https://www.youtube.com/watch?v=wY_CUkU1zfw
+
+### Speakers
+
+ - Victor Rentea [@VictorRentea](https://twitter.com/victorrentea)
+ 
+### Summary
+
+An very entertaining talk demonstrating a variety of ways to make your code clean.
+
+ - [Start](https://youtu.be/wY_CUkU1zfw?t=380)
